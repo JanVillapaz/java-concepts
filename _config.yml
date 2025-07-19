@@ -1,0 +1,18 @@
+title: Java Concepts
+author: Jan Villapaz
+email: janvillapaz@outlook.com
+description: >-
+  A simple blog to help me understand and explain core Java concepts.
+
+baseurl: "/java-concepts" # ONLY needed for project pages
+url: "https://janvillapaz.github.io"
+
+theme: minima
+
+# Optional: social links
+instagram_username: iamnotgian
+github_username: JanVillapaz
+
+# Build settings
+plugins:
+  - jekyll-feed
